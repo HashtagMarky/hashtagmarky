@@ -1,4 +1,4 @@
-![Header by tamanegi-k](Pokémon Types.png)
+![Header by tamanegi-k](https://github.com/HashtagMarky/hashtagmarky/blob/main/Pokémon%20Types.png)
 <h1 align="center">Hi there 👋, I'm HashtagMarky</h1>
 <h3 align="center">a self-taught rom hacker.</h3>
 
