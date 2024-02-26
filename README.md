@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/c/hashtag-marky" target="blank"><img align="center" src="https://github.com/HashtagMarky/hashtagmarky/blob/main/icons/youtube.svg" alt="hashtag-marky" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/></p>
 
 <h3 align="left">Support:</h3>
 
