@@ -8,7 +8,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hashtagmarky" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me here:</h3>
 <p align="left">
 <a href="https://twitter.com/samuellmark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuellmark" height="30" width="40" /></a>
 <a href="https://tiktok.com/@hashtagmarky" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://static-00.iconduck.com/assets.00/tiktok-icon-473x512-jgle91gd.png)" alt="samuellmark" height="30" width="40" /></a>
