@@ -3,7 +3,7 @@
 &nbsp;
 <h3 align="left">Projects</h3>
 
-- 🔭 I’m currently working on **multiple**.
+- 🔭 I’m currently working on **multiple**, including **_Pokémon Nova_**.
 
 - 👨‍💻 All of them are available at [https://hashtagmarky.github.io](https://hashtagmarky.github.io)
 
