@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm HashtagMarky</h1>
 <h3 align="center">a self-taught rom hacker.</h3>
+&nbsp;
+<h3 align="left">Projects</h3>
 
-- 🔭 I’m currently working on **multiple projects.**
+- 🔭 I’m currently working on **multiple**.
 
 - 👨‍💻 All of them are available at [https://hashtagmarky.github.io](https://hashtagmarky.github.io)
 
