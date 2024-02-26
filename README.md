@@ -14,7 +14,7 @@
 <h3 align="left">Find me here:</h3>
 <p align="left">
 <a href="https://twitter.com/samuellmark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuellmark" height="30" width="40" /></a>
-<a href="https://tiktok.com/@hashtagmarky" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/tiktok-icon-473x512-jgle91gd.png" alt="samuellmark" height="30" width="30" /></a>
+<a href="https://tiktok.com/@hashtagmarky" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/tiktok-icon-473x512-jgle91gd.png" alt="samuellmark" height="30" width="27" /></a>
 <a href="https://www.youtube.com/c/hashtagmarky5953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hashtag-marky" height="30" width="40" /></a>
 </p>
 
