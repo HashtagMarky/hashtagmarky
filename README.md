@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/samuellmark" target="blank"><img align="center" src="https://github.com/HashtagMarky/hashtagmarky/blob/main/icons/twitter.svg" alt="samuellmark" height="30" width="40" /></a>
 <a href="https://tiktok.com/@hashtagmarky" target="blank"><img align="center" src="https://github.com/HashtagMarky/hashtagmarky/blob/main/icons/tiktok.png" alt="samuellmark" height="30" width="27" /></a>
-<a href="https://www.youtube.com/c/hashtagmarky5953" target="blank"><img align="center" src="https://github.com/HashtagMarky/hashtagmarky/blob/main/icons/youtube.svg" alt="hashtag-marky" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hashtag-marky" target="blank"><img align="center" src="https://github.com/HashtagMarky/hashtagmarky/blob/main/icons/youtube.svg" alt="hashtag-marky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
