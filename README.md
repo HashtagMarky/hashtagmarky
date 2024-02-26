@@ -5,7 +5,7 @@
 
 - 👨‍🍳 I’m currently cooking **multiple**, including **_Pokémon Nova_**.
 
-- 👨‍💻 All of them are available for **FREE** at [https://hashtagmarky.github.io](https://hashtagmarky.github.io)
+- 👨‍💻 All of them are available for **FREE** [here](https://hashtagmarky.github.io).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hashtagmarky" /></p>
 
@@ -18,5 +18,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
+
+- ☕️ While all my works are available without cost, any and all donations go a long way to supporting development. They are truly appreciated.
+  
 <p><a href="https://ko-fi.com/hashtagmarky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hashtagmarky" /></a></p><br><br>
 
