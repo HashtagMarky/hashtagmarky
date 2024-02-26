@@ -5,7 +5,7 @@
 
 - 👨‍🍳 I’m currently cooking **multiple**, including **_Pokémon Nova_**.
 
-- 👨‍💻 All of them are available at [https://hashtagmarky.github.io](https://hashtagmarky.github.io)
+- 👨‍💻 All of them are available for **FREE** at [https://hashtagmarky.github.io](https://hashtagmarky.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="hashtagmarky" /></p>
 
