@@ -21,7 +21,7 @@
 
 <h3 align="left">Support:</h3>
 
-While all my works are available without cost, any and all donations go a long way to supporting development. They are truly appreciated.
+While all my works are available without cost, any and all donations toward my original projects go a long way to supporting development. They are truly appreciated.
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/hashtagmarky"> <img align="centre" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hashtagmarky" /></a></p><br><br>
