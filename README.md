@@ -5,7 +5,7 @@
 <img align="right" alt="IT Crowd 'Coding' Fire" width="400" src="https://gifdb.com/images/high/it-crowd-fire-this-is-fine-yd0qbeoybp7dttbb.gif">
 <h3 align="left">Projects</h3>
 
-- 👨‍🍳 I’m currently cooking **multiple**, including **_Pokémon Nova_**.
+- 👨‍🍳 I’m currently cooking **multiple**, including **_Pokémon Ikigai_**.
 
 - 👨‍💻 All of them are available for **FREE** [here](https://hashtagmarky.github.io).
 
