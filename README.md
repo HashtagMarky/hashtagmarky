@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm HashtagMarky</h1>
 <h3 align="center">a self-taught rom hacker.</h3>
 &nbsp;
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hashtagmarky&hide=stars,issues,contribs&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github"/></p>
 <h3 align="left">Projects</h3>
 
 - 👨‍🍳 I’m currently working on **_[Pokémon Ikigai](https://github.com/HashtagMarky/Pokemon-Ikigai-Production)_**.
